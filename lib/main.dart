@@ -118,7 +118,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   Text(
-                    stargazers > 50000 ? "🎉 YES 🎉" : "😢 NOT YET 😢",
+                    stargazers > 100000 ? "🎉 YES 🎉" : "😢 NOT YET 😢",
                     style: TextStyle(fontSize: 45.0),
                   ),
                   Row(
