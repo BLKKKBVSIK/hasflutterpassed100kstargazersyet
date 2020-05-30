@@ -23742,7 +23742,7 @@ s=p.r?L.KP("API rate limit exceeded",o):M.mx(o,o,o,o,o,o,o,o,o,o,o)
 s=T.Tg(H.b([new K.rY(t,o),s],u.t),C.hl,C.kN)
 t=s}t=R.TK(!1,!0,t,o,!0,o,o,o,o,o,o,o,o,new F.MX(p),o)
 s=L.KP("Has Flutter passed 100k stargazers on Github yet ?",K.ch(a).W.f)
-r=p.e>5e4?"\ud83c\udf89 YES \ud83c\udf89":"\ud83d\ude22 NOT YET \ud83d\ude22"
+r=p.e>1e5?"\ud83c\udf89 YES \ud83c\udf89":"\ud83d\ude22 NOT YET \ud83d\ude22"
 q=u.t
 return new M.oI(T.x9(C.ha,H.b([new T.hU(C.ax,o,o,M.mx(o,T.Tg(H.b([t,new T.tU(C.mG,s,o),L.KP(r,A.pa(o,o,o,o,o,o,o,o,o,o,o,45,o,o,o,o,!0,o,o,o,o,o,o)),new T.wz(C.R,C.kN,C.kO,C.hl,o,C.lO,o,H.b([L.KP(J.bF(p.e),K.ch(a).W.e),L.TI(C.tm)],q),o)],q),C.hl,C.nZ),o,o,m,o,600,o,new V.aQ(50,50,50,50),o,600),o),new T.hU(C.ax,o,o,new Z.mv(p.d,C.me,!1,C.um,o),o)],q),C.h1),n,o)}}
 F.MY.prototype={
